@@ -1,4 +1,3 @@
-class Teacher
 class Teacher < User
 
 
