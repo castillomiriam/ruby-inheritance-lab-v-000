@@ -6,5 +6,5 @@ end
 
 def learn(things)
   @knowledge << things
-
+end
 end
