@@ -5,5 +5,6 @@ def initialize
 end
 
 def learn("blabla")
+  self << @knowledge
 
 end
