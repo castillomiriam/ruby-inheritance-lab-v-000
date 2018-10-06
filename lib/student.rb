@@ -4,7 +4,7 @@ def initialize
 @knowledge = []
 end
 
-def learn(lesson)
-  @knowledge << lessons
+def learn(things)
+  @knowledge << things
 
 end
